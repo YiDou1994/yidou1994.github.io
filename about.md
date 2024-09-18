@@ -36,8 +36,8 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 
 <div class="right-column">
             <h1>DOU Yi 窦熠</h1>
-            <h2>Born in 1994, China</h2>
             <div class="info">
+                <p><strong>Born in 1994, China </p>
                 <p><strong>Location:</strong> Paris, FR</p>
                 <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xi'an City, CN</p>
             </div>
