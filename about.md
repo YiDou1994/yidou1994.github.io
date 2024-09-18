@@ -31,7 +31,7 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 <div style="display: flex;">
 
 <div style="flex: 1; padding-right: 10px;">
-![Yi`s Photo](https://raw.githubusercontent.com/YiDou1994/yidou1994.github.io/master/_data/Yi_Photo.jpg)
+<img src="https://raw.githubusercontent.com/YiDou1994/yidou1994.github.io/master/_data/Yi_Photo.jpg" alt="Photo" width="width_value" height="300">
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
