@@ -28,6 +28,11 @@ key: page-about
 
 Welcome to my personal page! Any question and discussion can be sent by email!
 
+DOU Yi 窦熠
+Bron in 1994, China
+Location: Paris, FR
+Previous: Zurich, CH; Copenhagen, DK; Xi`an City, CN
+
 The motivation of this website is to 
 - Record my understanding in the field for the part was not pulished yet or not publishable.
 - Share my thinking and seek for communication and discussion.
@@ -37,20 +42,28 @@ The motivation of this website is to
 ## Research Interesting
 
 ### Experienced
-  - 
-  - 
-  - 
+  - MHZ DC-DC power conversion systems: circuit topology, design and optimization.
+  - MHz wireless power transfer systems for implanted medical devices.
+  - MHz magnetic component: modelling, design, optimization, integration and validation.
+  - Magnetic material application in power electronics: Ferrite, Alloy powder and nanocrystaline.
+  - Design automation for system optimization and magnetic design.
 
-### Working on
+  Find my publications in [Google Scholar](https://scholar.google.com/citations?user=LrU0d14AAAAJ&hl=en) and [ORCiD](https://orcid.org/my-orcid?orcid=0000-0003-3725-4357).
+
+### Learning
+  - Analog IC design
 
 ## Experience
 
 ### Education
-  - PhD
-  - M.Sc.
-  - B.E.
+  - PhD: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngby, Denmark
+  - Aacademic Guest: PES, ETH Zurich, Zurich Switzerland
+  - M.Sc.: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngbym Denmark
+  - B.E.: Electrical Engineering and Automation, Xi`an Jiaotong University, Xi`an City, China
 
 ### Working
+  - Staff Engieer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
+  - Senior Engineer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
 
 ### Professional Ac
 
