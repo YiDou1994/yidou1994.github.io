@@ -31,15 +31,10 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 <div style="display: flex;">
 
 <div style="flex: 1; padding-right: 10px;">
-This is the content of the **left column**.
+![Yi`s Photo]()
 </div>
 
 <div style="flex: 1; padding-left: 10px;">
-This is the content of the **right column**.
-</div>
-
-</div>
-
 DOU Yi 窦熠  
 Born in 1994, China  
 Location: Paris, FR  
@@ -48,6 +43,11 @@ Previous: Zurich, CH; Copenhagen, DK; Xi`an City, CN
 The motivation of this website is to 
 - Record my understanding in the field for the part was not pulished yet or not publishable.
 - Share my thinking and seek for communication and discussion.
+</div>
+
+</div>
+
+
 
 >_**Il n'y a qu'un héroïsme au monde :**_ 
 
