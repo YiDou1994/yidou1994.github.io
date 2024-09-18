@@ -34,16 +34,16 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 <img src="https://raw.githubusercontent.com/YiDou1994/yidou1994.github.io/master/_data/Yi_Photo.jpg" alt="Photo" width="width_value" height="300">
 </div>
 
-<div style="flex: 1; padding-left: 10px;">
-DOU Yi 窦熠  
-Born in 1994, China  
-Location: Paris, FR  
-Previous: Zurich, CH; Copenhagen, DK; Xi`an City, CN  
+<div class="right-column">
+            <h1>DOU Yi 窦熠</h1>
+            <h2>Born in 1994, China</h2>
+            <div class="info">
+                <p><strong>Location:</strong> Paris, FR</p>
+                <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xi'an City, CN</p>
+            </div>
 
-The motivation of this website is to 
-- Record my understanding in the field for the part was not pulished yet or not publishable.
-- Share my thinking and seek for communication and discussion.
-</div>
+           
+  </div>
 
 </div>
 
