@@ -26,15 +26,33 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Welcome to my personal page! Any question and discussion can be sent by email!
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+The motivation of this website is to 
+- Record my understanding in the field for the part was not pulished yet or not publishable.
+- Share my thinking and seek for communication and discussion.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+>_**Il n'y a qu'un héroïsme au monde :**_ 
 
-## Features
+## Research Interesting
+
+### Experienced
+  - 
+  - 
+  - 
+
+### Working on
+
+## Experience
+
+### Education
+  - PhD
+  - M.Sc.
+  - B.E.
+
+### Working
+
+### Professional Ac
 
 - Responsive
 - Semantic HTML
