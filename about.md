@@ -89,7 +89,7 @@ Welcome to my personal page! Any question and discussion can be sent by email!
             <h2>Born in 1994, China</h2>
             <div class="info">
                 <p><strong>Location:</strong> Paris, FR</p>
-                <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xian City, CN</p>
+                <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xi'an City, CN</p>
             </div>
         </div>
     </div>
@@ -112,15 +112,15 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 
 # Experience
 
-## Education
-  - PhD: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngby, Denmark
-  - Aacademic Guest: PES, ETH Zurich, Zurich Switzerland
-  - M.Sc.: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngbym Denmark
-  - B.E.: Electrical Engineering and Automation, Xi\'an Jiaotong University, Xi\'an City, China
-
 ## Working
-  - Staff Engieer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
-  - Senior Engineer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
+  - Staff Engieer: Electromagnetics and Power Electronics, Resonant Link Inc., Zurich, Switzerland
+  - Senior Engineer: Electromagnetics and Power Electronics, Resonant Link Inc., Zurich, Switzerland
+
+## Education
+  - PhD: Power Electronics at ELE group, Technical University of Denmark(DTU), Kgs. Lyngby, Denmark
+  - Aacademic Guest: PES, ETH Zurich, Zurich, Switzerland
+  - M.Sc.: Power Electronics at ELE group, Technical University of Denmark(DTU), Kgs. Lyngbym Denmark
+  - B.E.: Electrical Engineering and Automation, Xi\'an Jiaotong University, Xi\'an City, China
 
 ## Professional Activities
   - IEEE Member, PELS
