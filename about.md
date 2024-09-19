@@ -96,9 +96,9 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 </body>
 </html>
 
-## Research Interesting
+# Research Interesting
 
-### Experienced
+## Experienced
   - MHZ DC-DC power conversion systems: circuit topology, design and optimization.
   - MHz wireless power transfer systems for implanted medical devices.
   - MHz magnetic component: modelling, design, optimization, integration and validation.
@@ -107,56 +107,24 @@ Welcome to my personal page! Any question and discussion can be sent by email!
 
   Find my publications in [Google Scholar](https://scholar.google.com/citations?user=LrU0d14AAAAJ&hl=en) and [ORCiD](https://orcid.org/my-orcid?orcid=0000-0003-3725-4357).
 
-### Learning
+## Learning
   - Analog IC design
 
-## Experience
+# Experience
 
-### Education
+## Education
   - PhD: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngby, Denmark
   - Aacademic Guest: PES, ETH Zurich, Zurich Switzerland
   - M.Sc.: Power Electronics at ELE group, Technical University of Denmark, Kgs. Lyngbym Denmark
-  - B.E.: Electrical Engineering and Automation, Xi`an Jiaotong University, Xi`an City, China
+  - B.E.: Electrical Engineering and Automation, Xi\'an Jiaotong University, Xi\'an City, China
 
-### Working
+## Working
   - Staff Engieer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
   - Senior Engineer: Electromagnetics and Power Electronics, Resonant Link Inc, Zurich, Switzerland
 
-### Professional Ac
+## Professional Activities
+  - IEEE Member, PELS
+  - Volunteering reviewers for TPEL, TIE, JESPTE, APEC and ECCE Europe
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
-
-## Skins
-
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+## Others
+  - Founder of DTU CN Basketball Club
