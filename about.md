@@ -28,28 +28,73 @@ key: page-about
 
 Welcome to my personal page! Any question and discussion can be sent by email!
 
-<div style="display: flex;">
 
-<div style="flex: 1; padding-right: 10px;">
-<img src="https://raw.githubusercontent.com/YiDou1994/yidou1994.github.io/master/_data/Yi_Photo.jpg" alt="Photo" width="width_value" height="300">
-</div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two-Column Layout</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .left-column {
+            flex: 1;
+            padding: 20px;
+        }
+        .right-column {
+            flex: 1;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 28px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        h2 {
+            font-size: 20px;
+            color: #555;
+        }
+        .info {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+        .info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
 
-<div class="right-column">
+<body>
+    <div class="container">
+        <!-- Left Column (can be used for future content or left blank) -->
+        <div class="left-column">
+            <img src="https://raw.githubusercontent.com/YiDou1994/yidou1994.github.io/master/_data/Yi_Photo.jpg" alt="Photo" width="width_value" height="300">
+        </div>
+        <!-- Right Column with the content -->
+        <div class="right-column">
             <h1>DOU Yi 窦熠</h1>
+            <h2>Born in 1994, China</h2>
             <div class="info">
-                <p><strong>Born in 1994, China</p>
                 <p><strong>Location:</strong> Paris, FR</p>
-                <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xi'an City, CN</p>
+                <p><strong>Previous:</strong> Zurich, CH; Copenhagen, DK; Xian City, CN</p>
             </div>
-
-           
-  
-
-</div>
-
-
-
->_**Il n'y a qu'un héroïsme au monde :**_ 
+        </div>
+    </div>
+</body>
+</html>
 
 ## Research Interesting
 
